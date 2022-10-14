@@ -10,6 +10,7 @@
   "categories": [
     "Themes"
   ],
+  "icon": "https://raw.githubusercontent.com/DasLanky/tea-leaves/5d1f643a7ffd43f36e3004e4bd06f231487f0ddb/icon.png",
   "contributes": {
     "themes": [
       {
