@@ -2,7 +2,7 @@
   "name": "tea-leaves",
   "displayName": "Tea Leaves",
   "description": "A beautiful nighttime theme inspired by a cup of tea.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.72.0"
   },
